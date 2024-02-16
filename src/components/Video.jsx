@@ -2,6 +2,9 @@ import React from 'react'
 import './style.css'
 
 export default function Video({content}) {
+  function func(){
+    window.open("https://www.linkedin.com/in/mayur-borgaonker-553924202/")
+  }
     return (
         <div className="card" >
   <div className="img bg-card"   >
@@ -13,8 +16,8 @@ export default function Video({content}) {
         height: '100%',
         objectFit: 'cover', // This ensures the image covers the entire space without stretching
       }}
-    src="https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg" alt="" />
-    <div className="save">
+    src={content.img} alt="" />
+    <div className="save" onClick={func}>
       <svg
         className="svg"
         width={683}

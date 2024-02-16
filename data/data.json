@@ -1,111 +1,138 @@
 {
-    "blogs": [
-      {
-        "title": "Dr. Meeravali Shaikh",
-        "education":"B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
-        "designation": "HOD",
-        "experience":"13 Years",
-        "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
-        "id": 1
-      },
-      {
-        "title": "Dr.Arun Singh Chouhan",
-        "education":"B.E (CSE), M.E (CSE),Ph. D (CSE)",
-        "designation": "Professor",
-        "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
-        "experience":" 17 Years",
-        "id": 2
-      },
-      {
-        "title": "Dr.M.Narayanan",
-        "education":"B.E (CSE), M.E (CSE),Ph. D (CSE) ",
-        "designation": "Professor",
-                "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+  "blogs": [
+    {
+      "title": "Dr. Meeravali Shaikh",
+      "education":"B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+      "designation": "HOD",
+      "experience":"13 Years",
+      "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+      "id": 1
+    },
+    {
+      "title": "Dr.Arun Singh Chouhan",
+      "education":"B.E (CSE), M.E (CSE),Ph. D (CSE)",
+      "designation": "Associate Professor",
+      "img":"https://static.wixstatic.com/media/0c0246_354ee4952531440fb5f2d89dc37f7010~mv2.jpg/v1/fill/w_159,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_Arun%20Singh%20Chouhan.jpg",
+      "experience":" 15  Years",
+      "id": 2
+    },
+    {
+      "title": "Dr.M.Narayanan",
+      "education":"B.E (CSE), M.E (CSE),Ph. D (CSE) ",
+      "designation": "Professor",
+      "img":"https://static.wixstatic.com/media/0c0246_efc8ab272bd54140af8232e585fe2ba9~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Narayanan.jpg",
 
-        "experience":" 17 Years",
-        "id": 3
-      },
-      {
-        "title": "Dr.P.Rambabu",
-        "education":"B.Tech(Civil), M. Tech(Remote Sensing),Ph. D(Remote Sensing))",
-        "designation": "Professor",
-                "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+      "experience":" 17 Years",
+      "id": 3
+    },
+    {
+      "title": "Dr.P.Rambabu",
+      "education":"B.Tech(Civil), M. Tech(Remote Sensing),Ph. D(Remote Sensing))",
+      "designation": "Professor",
+      "img":"https://static.wixstatic.com/media/0c0246_539c4cc63af84b4c9cab67422c088b4d~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_P_Rambabu.jpg",
 
-        "experience":"13 Years",
-        "id": 4
-      },
-      {
-        "title": "Dr. Meeravali Shaikh",
-        "education":"B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
-        "designation": "HOD",
-                "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+      "experience":" 20 Years (Industry), 13 Years (Teaching)",
+      "id": 4
+    },
+    {
+      "title": "Dr.M.Ravikanth",
+      "education":"B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+      "designation": "Associate Professor",
+              "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
 
-        "experience":"13 Years",
-        "id": 5
-      },
-      {
-        "title": "Dr. Meeravali Shaikh",
-        "education":"B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
-        "designation": "HOD",
-                "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+      "experience":"13 Years",
+      "id": 5
+    },
+    {
+      "title": "Dr. T. Phanindra",
+      "education":"B. Tech(EEE), M. Tech (EEE), Ph.D (EEE)",
+      "designation": "Associate Professor",
+              "img":"https://static.wixstatic.com/media/0c0246_125d891d96af4792900745e517286c59~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_%20T_%20Phanindra.jpg"
+      ,"experience":"12 Years",
+      "id": 6
+    },
+    {
+      "title": "Dr.B.Jogeshwara Rao",
+      "education":"MSc (Comp), M. Tech (CSE), Ph. D (CSE) ",
+      "designation": "Associate Professor",
+              "img":"https://static.wixstatic.com/media/0c0246_9e2be7b484fb438e84e17514e29b1544~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_B_Jogeswara%20Rao.jpg",
 
-        "experience":"13 Years",
-        "id": 6
-      },
-      {
-        "title": "Dr. Meeravali Shaikh",
-        "education":"B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
-        "designation": "HOD",
-                "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+      "experience":"13 Years",
+      "id": 7
+    },
+    {
+      "title": "Dr.M.Santhosh Kumar Goud",
+      "education":"B.Tech (EEE), MS(Photonics), Ph. D (EEE)",
+      "designation": "Assistant Professor",
+              "img":"https://static.wixstatic.com/media/0c0246_950583abbf6348019766af57bd416763~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Santhosh%20Kumar%20Goud.jpg",
 
-        "experience":"13 Years",
-        "id": 7
-      },
-      {
-        "title": "Dr. Meeravali Shaikh",
-        "education":"B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
-        "designation": "HOD",
-                "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+      "experience":"13 Years",
+      "id": 8
+    },
+    {
+      "title": "Dr. P. Aurchana ",
+      "education":"MCA, M. Tech (CSE), Ph. D (CSE)",
+      "designation": "Assistant Professor",
+              "img":"https://static.wixstatic.com/media/0c0246_fdf66194dd11483e93f5c0669a31ef9e~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_%20P_%20Aurchana.jpg",
 
-        "experience":"13 Years",
-        "id": 8
-      },
-      {
-        "title": "Dr. Meeravali Shaikh",
-        "education":"B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
-        "designation": "HOD",
-                "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+      "experience":" 7 Years (Teaching), 4 Years (Full Ph.D)",
+      "id": 9
+    },
+    {
+      "title": "Dr. Meeravali Shaikh",
+      "education":"B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+      "designation": "HOD",
+              "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
 
-        "experience":"13 Years",
-        "id": 9
-      },
-      {
-        "title": "Dr. Meeravali Shaikh",
-        "education":"B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
-        "designation": "HOD",
-                "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+      "experience":"13 Years",
+      "id": 10
+    },
+    {
+      "title": "Mr. Naveen Kumar Navuri",
+      "education":"B. Tech(IT), M. Tech (CSE), Ph.D Pursuing ",
+      "designation": "Assistant Professor",
+              "img":"https://static.wixstatic.com/media/0c0246_dd85cba7494242cf9fb8369c27fc7dae~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Mr_%20Naveen%20Kumar%20Navuri.jpg",
 
-        "experience":"13 Years",
-        "id": 10
-      },
-      {
-        "title": "Dr. Meeravali Shaikh",
-        "education":"B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
-        "designation": "HOD",
-                "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+      "experience":"13 Years",
+      "id": 11
+    },
+    {
+      "title": "Mr. G. Raju",
+      "education":"MCA, M. Tech (CSE), Ph. D Pursuing",
+      "designation": "Assistant Professor",
+              "img":"https://static.wixstatic.com/media/0c0246_0e24296d2d104eb79f9b716af1eb3558~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Mr_%20G_%20Raju.jpg",
 
-        "experience":"13 Years",
-        "id": 11
-      },
-      {
-        "title": "Dr. Meeravali Shaikh",
-        "education":"B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
-        "designation": "HOD",
-                "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+      "experience":"13 Years",
+      "id": 12
+    },
+    {
+      "title": "Mr. M.Krishna Kishore",
+      "education":"B. Tech (IT), M. Tech (CSE), Ph. D (Pursuing)",
+      "designation": "Assistant Professor",
+      "img":"https://static.wixstatic.com/media/0c0246_c1630e9add0145299f70b025992737dc~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Mr_%20M_Krishna%20Kishore.jpg",
 
-        "experience":"13 Years",
-        "id": 12
-      }
-      
-    ]
-  }
+      "experience":"12 Years",
+      "id": 13
+    },
+    {
+      "title": "Mrs.D.Suneetha",
+      "education":"B. Tech (IT), M. Tech (CSE), Ph. D (Pursuing)",
+      "designation": "Assistant Professor",
+      "img":"https://static.wixstatic.com/media/0c0246_de2dd806177b4089938142e751e05045~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Mrs_D_Suneetha.jpg",
+
+      "experience":"10 Years",
+      "id": 14
+    },
+    {
+      "title": "T.Indira Priyadarshini",
+      "education":"B. Tech (IT), M. Tech (CSE), Ph. D (Pursuing)",
+      "designation": "Assistant Professor",
+      "img":"https://static.wixstatic.com/media/0c0246_d24cc598eca649f4b7c65a2d9e853013~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/T_Indira%20Priyadarshini.jpg",
+
+      "experience":"9.5 Years",
+      "id": 15
+    }
+
+    
+  ]
+}
