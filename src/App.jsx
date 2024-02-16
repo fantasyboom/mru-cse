@@ -10,6 +10,7 @@ import {
 } from "./sections";
 
 import Nav from "./components/Nav";
+import Faculty from "./sections/Faculty";
 
 const App = () => (
   <main className="relative">
@@ -18,7 +19,7 @@ const App = () => (
       <Hero />
     </section>
     <section className="padding">
-      <PopularProducts />
+      <Faculty></Faculty>
     </section>
     <section className="padding">
       <SuperQuality />
@@ -29,12 +30,12 @@ const App = () => (
     <section className="padding">
       <SpecialOffer />
     </section>
-    <section className="bg-pale-blue padding">
+    {/* <section className="bg-pale-blue padding">
       <CustomerReviews />
     </section>
     <section className="padding-x sm:py-32 py-16 w-full">
       <Subscribe />
-    </section>
+    </section> */}
     <section className="padding bg-black padding-x padding-y pb-8">
       <Footer />
     </section>

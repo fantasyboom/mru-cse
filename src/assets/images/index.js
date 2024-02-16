@@ -19,6 +19,7 @@ import shoe9 from "./shoe9.svg";
 import shoe10 from "./shoe10.svg";
 import shoe11 from "./shoe11.svg";
 import shoe12 from "./shoe12.svg";
+import Mruh_logo from "./MRUH_logo.svg"
 
 import thumbnailBackground from "./thumbnail-background.svg";
 import thumbnailShoe1 from "./thumbnail-shoe1.svg";
@@ -47,4 +48,5 @@ export {
   thumbnailShoe1,
   thumbnailShoe2,
   thumbnailShoe3,
+  Mruh_logo
 };

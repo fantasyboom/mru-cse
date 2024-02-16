@@ -18,28 +18,30 @@ const SpecialOffer = () => {
                 : ""
             }`}
           >
-            <img src={offer} className="w-full rounded-lg" />
+            <img
+              src={offer}
+              alt="offer"
+              width={800}
+              height={800}
+              className="object-contain rounded-lg"
+            />
           </div>
         )}
       </TrackVisibility>
       <div className="flex flex-1 flex-col">
         <h2 className="font-palanquin text-4xl capitalize font-bold lg:max-w-lg">
-          <span className="text-purple-900">Special </span>
-          Offer
+          <span className="text-purple-900">Internships & Placements</span>
+          
         </h2>
         <p className="mt-4 info-text">
-          Embark on a shopping journey that redefines your experience with
-          unbeatable deals. From premier selections to incredible savings, we
-          offer unparalleled value that sets us apart.
+          Students explore various computer science fields through Internships.
         </p>
         <p className="mt-6 info-text">
-          Navigate a realm of possibilities designed to fulfill your unique
-          desires, surpassing the loftiest expectations. Your journey with us is
-          nothing short of exceptional.
+          Our placements ensure students get a good package and a very good start to their career. Many of our students have already been placed with the top MNCs.
         </p>
         <div className="mt-11 flex flex-wrap gap-4">
           {" "}
-          <Button label="Shop now" iconURL={arrowRight} />
+          <Button label="Explore" iconURL={arrowRight} />
           <Button
             label="Learn more"
             backgroundColor="bg-white"

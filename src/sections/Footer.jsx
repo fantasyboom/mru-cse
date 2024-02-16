@@ -1,6 +1,6 @@
 import { footerLinks, socialMedia } from "../assets/constants";
 import { copyrightSign } from "../assets/icons";
-import { footerLogo } from "../assets/images";
+import { Mruh_logo, footerLogo } from "../assets/images";
 
 const Footer = () => {
   return (
@@ -8,12 +8,9 @@ const Footer = () => {
       <div className="flex justify-between items-start gap-20 flex-wrap max-lg:flex-col">
         <div className="flex flex-col items-start">
           <a href="/">
-            <img src={footerLogo} width={250} height={46} />
+            <img src={Mruh_logo} width={250} height={46} />
           </a>
-          <p className="mt-6 text-base leading-7 font-montserrat text-white-400 sm:max-w-sm">
-            Get shoes ready for the new term at your nearest Converse store.
-            Find Your perfect Size In Store. Get Rewards
-          </p>
+          
           <div className="flex items-center gap-5 mt-8">
             {socialMedia.map((icon) => (
               <div

@@ -1,0 +1,111 @@
+{
+    "blogs": [
+      {
+        "title": "Dr. Meeravali Shaikh",
+        "education":"B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+        "designation": "HOD",
+        "experience":"13 Years",
+        "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+        "id": 1
+      },
+      {
+        "title": "Dr.Arun Singh Chouhan",
+        "education":"B.E (CSE), M.E (CSE),Ph. D (CSE)",
+        "designation": "Professor",
+        "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+        "experience":" 17 Years",
+        "id": 2
+      },
+      {
+        "title": "Dr.M.Narayanan",
+        "education":"B.E (CSE), M.E (CSE),Ph. D (CSE) ",
+        "designation": "Professor",
+                "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+
+        "experience":" 17 Years",
+        "id": 3
+      },
+      {
+        "title": "Dr.P.Rambabu",
+        "education":"B.Tech(Civil), M. Tech(Remote Sensing),Ph. D(Remote Sensing))",
+        "designation": "Professor",
+                "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+
+        "experience":"13 Years",
+        "id": 4
+      },
+      {
+        "title": "Dr. Meeravali Shaikh",
+        "education":"B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+        "designation": "HOD",
+                "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+
+        "experience":"13 Years",
+        "id": 5
+      },
+      {
+        "title": "Dr. Meeravali Shaikh",
+        "education":"B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+        "designation": "HOD",
+                "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+
+        "experience":"13 Years",
+        "id": 6
+      },
+      {
+        "title": "Dr. Meeravali Shaikh",
+        "education":"B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+        "designation": "HOD",
+                "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+
+        "experience":"13 Years",
+        "id": 7
+      },
+      {
+        "title": "Dr. Meeravali Shaikh",
+        "education":"B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+        "designation": "HOD",
+                "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+
+        "experience":"13 Years",
+        "id": 8
+      },
+      {
+        "title": "Dr. Meeravali Shaikh",
+        "education":"B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+        "designation": "HOD",
+                "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+
+        "experience":"13 Years",
+        "id": 9
+      },
+      {
+        "title": "Dr. Meeravali Shaikh",
+        "education":"B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+        "designation": "HOD",
+                "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+
+        "experience":"13 Years",
+        "id": 10
+      },
+      {
+        "title": "Dr. Meeravali Shaikh",
+        "education":"B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+        "designation": "HOD",
+                "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+
+        "experience":"13 Years",
+        "id": 11
+      },
+      {
+        "title": "Dr. Meeravali Shaikh",
+        "education":"B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+        "designation": "HOD",
+                "img":"https://static.wixstatic.com/media/0c0246_78dd7b225ffd4abe9cc4a3dae910731f~mv2.jpg/v1/fill/w_161,h_169,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Dr_M_Ravikanth.jpg",
+
+        "experience":"13 Years",
+        "id": 12
+      }
+      
+    ]
+  }

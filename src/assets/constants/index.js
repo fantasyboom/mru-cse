@@ -24,22 +24,22 @@ import {
 export const navLinks = [
   { href: "#home", label: "Home" },
   { href: "#about-us", label: "About Us" },
-  { href: "#products", label: "Faculty" },
+  { href: "#Faculty", label: "Faculty" },
   {href: '#acheivements',label:"Achievements"},
   { href: "#contact-us", label: "Contact Us" },
 ];
 
 export const shoes = [
   {
-    thumbnail: thumbnailShoe1,
+    thumbnail: bigShoe1,
     bigShoe: bigShoe1,
   },
   {
-    thumbnail: thumbnailShoe2,
+    thumbnail: bigShoe2,
     bigShoe: bigShoe2,
   },
   {
-    thumbnail: thumbnailShoe3,
+    thumbnail: bigShoe3,
     bigShoe: bigShoe3,
   },
 ];
@@ -75,21 +75,17 @@ export const products = [
 
 export const services = [
   {
-    imgURL: truckFast,
-    label: "Free shipping",
-    subtext: "Enjoy seamless shopping with our complimentary shipping service.",
+    // imgURL: truckFast,
+    label: "Vision",
+    subtext: "Department of CSE aims to make a stance of International repute through continuous research, innovation and industry led curriculum.",
   },
   {
-    imgURL: shieldTick,
-    label: "Secure Payment",
+    
+    label: "Mission",
     subtext:
-      "Experience worry-free transactions with our secure payment options.",
+      "To Impart Quality Education with social consciousness and make them Globally Competent.",
   },
-  {
-    imgURL: support,
-    label: "Love to help you",
-    subtext: "Our dedicated team is here to assist you every step of the way.",
-  },
+  
 ];
 
 export const reviews = [
@@ -111,31 +107,45 @@ export const reviews = [
 
 export const footerLinks = [
   {
-    title: "Products",
+    title: "About",
     links: [
-      { name: "Chuck Taylor All Star", link: "/" },
-      { name: "Run Star Hike Platform", link: "/" },
-      { name: "Chuck 70 Tri-Color", link: "/" },
-      { name: "Star Player 76", link: "/" },
-      { name: "Chuck Taylor All Star Lift Platform", link: "/" },
-      { name: "Run Star Legacy Chelsea CX", link: "/" },
+      { name: "Home", link: "/" },
+      { name: "University", link: "/" },
+      { name: "MRGI", link: "/" },
+      { name: "Statutory Authorities", link: "/" },
+      { name: "Statutory Bodies", link: "/" },
+      { name: "Examinations", link: "/" },
     ],
   },
   {
-    title: "Help",
+    title: "CAMPUS LIFE",
     links: [
-      { name: "About us", link: "/" },
-      { name: "FAQs", link: "/" },
-      { name: "How it works", link: "/" },
-      { name: "Privacy policy", link: "/" },
-      { name: "Payment policy", link: "/" },
+      { name: "Hostel", link: "/" },
+      { name: "Library", link: "/" },
+      { name: "Cafeteria", link: "/" },
+      { name: "Laboratories", link: "/" },
+      { name: "Sports", link: "/" },
+      
     ],
   },
   {
-    title: "Get in touch",
+    title: "QUICK LINKS",
     links: [
-      { name: "customer@converse.com", link: "mailto:customer@converse.com" },
-      { name: "+92554862354", link: "tel:+92554862354" },
+      { name: "UGC Application", link: "/" },
+      { name: "Conferences", link: "tel:+92554862354" },
+      {name: "MOUs and Collaborations", link: "/" },
+      {name: "Contact Us", link: "/" },
+      {name: "Student Login", link: "/" },
+    ],
+  },
+  {
+    title: "ACADEMICS",
+    links: [
+      { name: "School of Engineering", link: "/" },
+      { name: "School of Agriculture", link: "tel:+92554862354" },
+      {name: "School of Allied Healthcare Sciences", link: "/" },
+      {name: "School of Management / Commerce", link: "/" },
+      {name: "School of Sciences", link: "/" },
     ],
   },
 ];

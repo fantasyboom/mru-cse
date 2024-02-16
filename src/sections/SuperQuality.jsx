@@ -4,31 +4,44 @@ import "animate.css";
 import TrackVisibility from "react-on-screen";
 
 const SuperQuality = () => {
+  const focusareas=["1. Deep Learning",
+
+    "2. Reinforcement Learning",
+    
+    "3. Neural Networks",
+    
+    '4. Speech Recognition Technologies',
+    
+    '5. Computer Vision',
+    
+    "6. Natural Language Processing",
+    
+    "7. Robotic Applications",
+    
+    "8. Data Science & Big Data",
+    
+    "9. Cyber Security"
+    
+    ,"10. Security Certifications"]
+    const areas= focusareas.map(area => <li key={area}>{area}</li>);
   return (
+    <>
+    
     <section
       id="about-us"
       className="flex justify-between items-center max-lg:flex-col gap-10 w-full max-container"
     >
-      <div className="flex flex-1 flex-col">
+      <div className="flex  flex-col gap-4">
         <h2 className="font-palanquin text-4xl capitalize font-bold lg:max-w-lg">
           <span className="xl:bg-white xl:whitespace-nowrap relative z-10 pr-3">
-            We provide you
+            Focus Areas:
           </span>
-          <span className="text-purple-900">Super </span>
-          <span className="text-purple-900">Quality</span> Shoes
+          
         </h2>
-        <p className="mt-4 lg:max-w-lg info-text">
-          Ensuring premium comfort and style, our meticulously crafted footwear
-          is designed to elevate your experience, providing you with unmatched
-          quality, innovation, and a touch of elegance.
-        </p>
-        <p className="mt-6 lg:max-w-lg info-text">
-          Our dedication to detail and excellence ensures your satisfaction
-        </p>
-        <div className="mt-11">
-          {" "}
-          <Button label="View details" />
-        </div>
+        <ul className="font-sans text-xl flex flex-col  gap-2 text-slate-400">
+          {areas}
+        </ul>
+        
       </div>
       <TrackVisibility partialVisibility once>
         {({ isVisible }) => (
@@ -42,14 +55,15 @@ const SuperQuality = () => {
             <img
               src={shoe8}
               alt="shoe8"
-              width={650}
-              height={600}
+              width={800}
+              height={800}
               className="object-contain rounded-lg"
             />
           </div>
         )}
       </TrackVisibility>
     </section>
+    </>
   );
 };
 
