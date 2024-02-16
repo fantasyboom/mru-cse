@@ -4,7 +4,7 @@ import './style.css'
 export default function Video({content}) {
     return (
         <div className="card" >
-  <div className="img"   >
+  <div className="img bg-card"   >
     <img 
     style={{
         padding:"10px",
@@ -57,7 +57,7 @@ export default function Video({content}) {
       </svg>
     </div>
   </div>
-  <div className="text">
+  <div className="text font-sans">
     <p className="h3"> {content.title} </p>
     <p className="p"> {content.education} </p>
     <p className='h3'><b>{content.designation}</b>  </p>
