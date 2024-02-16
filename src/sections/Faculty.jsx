@@ -6,7 +6,7 @@ export default function Faculty() {
   const [isPending, setIsPending] = useState(true);
 
   useEffect(()=>{
-    fetch('http://localhost:8000/blogs')
+    fetch('https://mru-new-7hhf.vercel.app/blogs')
     .then(res => {
       return res.json();
     })
