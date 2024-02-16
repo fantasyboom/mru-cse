@@ -28,7 +28,7 @@ export default function Faculty() {
         <div className="grid-container">
         {blogs && 
         blogs.map(blog => (
-          <Video content={blog}/>
+          <Video content={blog} key={blog.id}/>
         ))
         }
         </div>

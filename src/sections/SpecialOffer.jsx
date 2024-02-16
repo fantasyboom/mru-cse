@@ -7,6 +7,7 @@ import TrackVisibility from "react-on-screen";
 const SpecialOffer = () => {
   return (
     <section
+      id="acheivements"
       className={`flex flex-wrap items-center max-xl:flex-col-reverse gap-10 max-container `}
     >
       <TrackVisibility partialVisibility once>
